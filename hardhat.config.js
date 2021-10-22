@@ -6,7 +6,7 @@ const projectid="4606db4f4e3c494f8e377eefb4199d8b";
 module.exports = {
   networks: {
     hardhat: {
-      chainId: 1335
+      chainId: 1337
     },
     mumbai: {
       url: `https://polygon-mumbai.infura.io/v3/${projectid}`,
