@@ -1,12 +1,12 @@
 # TUP NFT MarketPlace
 
-This project demonstrates 
+This project demonstrates a prototype of a NFT marketplace for content creators. 
 
 ### Running this project
 
 #### Gitpod
 
-To deploy this project to Gitpod, follow these steps:
+To view this project,deploy this project to Gitpod and follow these steps:
 
 1. Click this link to deploy
 
