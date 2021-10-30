@@ -28,7 +28,7 @@ const provider = new ethers.providers.JsonRpcProvider("https://8545-youendpoint.
 
 ![MetaMask RPC Import](pics/wallet.png)
 
-4. (Ctrl + Left Click) on url: http://localhost:3000 in the Terminal to open the website.
+4. (Ctrl + Left Click) on "url: http://localhost:3000" in the Terminal to open the website.
 
 ![localhost](pics/ss1.png)
 
@@ -36,7 +36,7 @@ const provider = new ethers.providers.JsonRpcProvider("https://8545-youendpoint.
 
 ![accounts](pics/ss2.png)
 
-Import private key of any address to your metamask.
+Import private key of any address to your metamask and then sell your NFT :)
 
 #### Local setup
 
