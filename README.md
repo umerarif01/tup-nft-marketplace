@@ -2,6 +2,8 @@
 
 This project demonstrates a prototype of a NFT marketplace for content creators. 
 
+![Screenshot](pics/ss.png)
+
 ### Running this project
 
 #### Gitpod
@@ -24,7 +26,7 @@ const provider = new ethers.providers.JsonRpcProvider("https://8545-youendpoint.
 
 3. Import the RPC address given to you by GitPod into your MetaMask wallet
 
-![MetaMask RPC Import](wallet.png)
+![MetaMask RPC Import](pics/wallet.png)
 
 #### Local setup
 

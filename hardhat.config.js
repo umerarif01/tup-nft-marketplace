@@ -19,3 +19,5 @@ module.exports = {
   },
   solidity: "0.8.4",
 };
+
+// npx hardhat run scripts/deploy.js --network localhost
